@@ -2,7 +2,7 @@
 
 A single-page, real-time chat application with user authentication and user persistence built with AngularJS and FireBase.
 
-##Logging In and Created a Display Name!
+##Logging In and Creating a Display Name!
 
 ![Register](http://i.imgur.com/vO7EVSH.gif "Register User and Create Display Name")
 
@@ -13,11 +13,11 @@ A single-page, real-time chat application with user authentication and user pers
 ##Technologies
 
 A partial list of technologies used:
--NodeJS
--Grunt
--Bower
--Angular
--FireBase
+NodeJS,
+Grunt,
+Bower,
+Angular,
+FireBase.
 
 This project is generated with [yo angular generator]
 version 0.11.1.
