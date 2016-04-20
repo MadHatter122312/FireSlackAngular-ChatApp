@@ -8,7 +8,7 @@ A single-page, real-time chat applications with user authentication and user per
 
 ##Creating a Channel and Direct Messaging!
 
-![Create](http://i.imgur.com/08c6gmq "Posting a comment")
+![Create](http://i.imgur.com/08c6gmq.gif "Posting a comment")
 
 ##Technologies
 
