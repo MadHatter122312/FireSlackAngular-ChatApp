@@ -11,4 +11,4 @@ Run `grunt` for building and `grunt serve` for preview.
 
 Running `grunt test` will run the unit tests with karma.
 
-(http://imgur.com/vO7EVSH "Register User and Create Display Name")
+![Register](http://i.imgur.com/vO7EVSH.gif "Register User and Create Display Name")
