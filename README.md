@@ -1,6 +1,6 @@
 #FireBase Angular Slack!
 
-A single-page, real-time chat applications with user authentication and user persistence built with AngularJS and FireBase.
+A single-page, real-time chat application with user authentication and user persistence built with AngularJS and FireBase.
 
 ##Logging In and Created a Display Name!
 
@@ -12,11 +12,15 @@ A single-page, real-time chat applications with user authentication and user per
 
 ##Technologies
 
+A partial list of technologies used:
+-NodeJS
+-Grunt
+-Bower
+-Angular
+-FireBase
 
 This project is generated with [yo angular generator]
 version 0.11.1.
-
-
 
 ## Build & development
 
